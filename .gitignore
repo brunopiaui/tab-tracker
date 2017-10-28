@@ -8,6 +8,16 @@ client/test/unit/coverage
 client/test/e2e/reports
 client/selenium-debug.log
 
+server/.DS_Store
+server/node_modules/
+server/dist/
+server/npm-debug.log*
+server/yarn-debug.log*
+server/yarn-error.log*
+server/test/unit/coverage
+server/test/e2e/reports
+server/selenium-debug.log
+
 # Editor directories and files
 .idea
 .vscode
